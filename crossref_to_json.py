@@ -17,7 +17,7 @@ headers = {
 # Define the parameters
 params = {
     "rows": 1000,  # Change this to the number of records you want per page
-    "mailto": "YOUR_EMAIL_HERE,
+    "mailto": "YOUR_EMAIL_HERE",
     "select": "DOI,author,title,issue,issued",
     "sort": "published",
     "order": "asc",
